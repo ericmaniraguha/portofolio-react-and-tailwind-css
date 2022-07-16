@@ -7267,6 +7267,13 @@ react-app-polyfill@^3.0.0:
     regenerator-runtime "^0.13.9"
     whatwg-fetch "^3.6.2"
 
+react-build-status-badge@^1.0.8:
+  version "1.0.8"
+  resolved "https://registry.yarnpkg.com/react-build-status-badge/-/react-build-status-badge-1.0.8.tgz#9b31db2b3621b2e3890beaa1a1dab8064cf6b0f3"
+  integrity sha512-z8SVg9ob+oX35LOcrkSfbXU+WgaVnGYuSUljCoE7y795+VwwUhyKiauZ4cFovoN9rsojsX5lLVPjvz8Pyajkgw==
+  dependencies:
+    react-timed-image "^1.0.6"
+
 react-dev-utils@^12.0.1:
   version "12.0.1"
   resolved "https://registry.yarnpkg.com/react-dev-utils/-/react-dev-utils-12.0.1.tgz#ba92edb4a1f379bd46ccd6bcd4e7bc398df33e73"
@@ -7397,6 +7404,31 @@ react-scroll@^1.8.7:
   dependencies:
     lodash.throttle "^4.1.1"
     prop-types "^15.7.2"
+
+react-timed-image@^1.0.6:
+  version "1.0.8"
+  resolved "https://registry.yarnpkg.com/react-timed-image/-/react-timed-image-1.0.8.tgz#77014fba198a08a2abf26f87f5ff49a56461e0b7"
+  integrity sha512-fsvpIRZ2ALAWbi0SsK3HltOYGfNqAOboSiKJ6zQf02ttzqomGhLIvZROcZDcnd8K8xbL9T9OK3KZRYZHofDSAQ==
+  dependencies:
+    react-timed-renderer "^1.0.7"
+    react-uncached-image "^1.0.7"
+
+react-timed-renderer@^1.0.7:
+  version "1.0.9"
+  resolved "https://registry.yarnpkg.com/react-timed-renderer/-/react-timed-renderer-1.0.9.tgz#ea1557ddfb32883eb74d94fdf89a88bcab864746"
+  integrity sha512-/WVmsYIqdK1lwQm3OIgUa6U/D7vkGeFfn2c6j8q1qOvPKYMZS0DE0icHCH6sYhslEPnoxJ5/UYuYGe4MnZmIXg==
+  dependencies:
+    react-use-precision-timer "^1.0.4"
+
+react-uncached-image@^1.0.7:
+  version "1.0.9"
+  resolved "https://registry.yarnpkg.com/react-uncached-image/-/react-uncached-image-1.0.9.tgz#62e809fa5ab12a7543d76d36a380f58ed914c700"
+  integrity sha512-DR76fi+RKp3NWV9OiQl7Iwvz64U9ngw/kgq+NahpwZtqbWuODcsGXQDR6Sll1kAHRbG2GTITADQ6Eg6N5xnMzg==
+
+react-use-precision-timer@^1.0.4:
+  version "1.0.8"
+  resolved "https://registry.yarnpkg.com/react-use-precision-timer/-/react-use-precision-timer-1.0.8.tgz#313fc5d8afef38169db3b0d9240642a018b1ccbf"
+  integrity sha512-XsfRN14A5DvarZIzPUdWKoiYfXG4t8GzDEbyMYtxe8xVmvyF9E3ho9ol/ublv6rL8NeuQAYvM7d2XdzWiZt1mQ==
 
 react@^18.2.0:
   version "18.2.0"
