@@ -41,7 +41,7 @@ const SocialLinks = () => {
           Twitter <AiOutlineTwitter size={30} />
         </>
       ),
-      href: 'mailto:emanirag@andrew.cmu.edu, ericmaniraguha@gmail.com',
+      href: 'Twitter:https://twitter.com/maniraguha_eric',
     },
     {
       id: 5,

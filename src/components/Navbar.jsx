@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { FaBars, FaTimes, FatTimes } from 'react-icons/fa';
+import { FaBars, FaTimes } from 'react-icons/fa';
 import { Link } from 'react-scroll';
 
 const Navbar = () => {
@@ -29,7 +29,7 @@ const Navbar = () => {
   ];
 
   return (
-    <div className='flex justify-between items-center px-4 w-full h-20 text-white bg-slate-400 fixed'>
+    <div className='flex justify-between items-center w-full h-14 px-4 text-white bg-slate-400 fixed mt-0'>
       <div>
         <h1 className='text-5xl font-signature ml-2'> EricTech</h1>
       </div>
