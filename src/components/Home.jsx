@@ -23,8 +23,8 @@ const Home = () => {
             Matrial UI, Next Js and GraphQL.
             <p>
               {' '}
-              Currently, I am persuing master's degree of MSIT at Carnegie
-              Mellon University.
+              Currently, I am persuing master's degree of IT at Carnegie Mellon
+              University.
             </p>
           </p>
 
