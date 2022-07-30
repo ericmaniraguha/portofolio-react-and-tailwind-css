@@ -23,7 +23,7 @@ const About = () => {
           MySQL.
         </p>
 
-        <br />
+        {/* <br /> */}
 
         {/*   <p className='text-xl'>
           Lorem, ipsum dolor sit amet consectetur adipisicing elit. Laborum
