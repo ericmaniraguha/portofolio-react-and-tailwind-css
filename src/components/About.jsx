@@ -4,7 +4,7 @@ const About = () => {
   return (
     <div
       name='about'
-      className='w-full h-screen bg-gradient-to-b from-gray-800 to-black text-white'
+      className='w-full h-screen bg-gradient-to-b from-gray-800 to-black text-white '
     >
       <div className='max-w-screen-lg p-4 mx-auto flex flex-col justify-center w-full h-full'>
         <div className='pb-4'>
@@ -25,7 +25,7 @@ const About = () => {
 
         <br />
 
-        <p className='text-xl'>
+        <p className='text-xl mt-2'>
           To enhance my professional skills, capabilities and knowledge in an
           organization, which recognizes the value of hard work and trusts me
           with responsibilities and challenges.
