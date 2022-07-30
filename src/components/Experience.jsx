@@ -8,14 +8,15 @@ import graphql from '../assets/graphql.png';
 import github from '../assets/github.png';
 import mongodb from '../assets/mongodb.png';
 import tailwind from '../assets/tailwind.png';
+import java from '../assets/java.png';
 
 const Experience = () => {
   const technologies = [
     {
       id: 1,
-      src: html,
-      title: 'HTML',
-      style: 'shadow-orange-500',
+      src: java,
+      title: 'JAVA',
+      style: 'shadow-red-500',
     },
     {
       id: 2,
