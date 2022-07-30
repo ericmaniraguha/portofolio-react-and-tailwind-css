@@ -18,8 +18,9 @@ const About = () => {
           Software engineer with experience in multiple settings can design and
           develop programs using the latest and most appropriate technology. Key
           skills include: Languages: C++, Java, C, .Net, SQL Applications: MS
-          Visual Studio, Eclipse Application servers: JBoss, Tomcat Operating
-          systems: Windows, Unix, Linux Database systems: SQL Server, MySQL.
+          Visual Studio, Eclipse Application servers: Apolo Server, Tomcat
+          Operating systems: Windows, Unix, Linux Database systems: SQL Server,
+          MySQL.
         </p>
 
         <br />
